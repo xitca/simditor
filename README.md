@@ -9,3 +9,6 @@ Simditor是团队协作工具 [Tower](http://tower.im) 使用的富文本编辑�
 兼容的浏览器：IE10+、Chrome、Firefox、Safari。
 
 Demo和文档：http://simditor.tower.im/
+
+
+确实是个好东西啊
